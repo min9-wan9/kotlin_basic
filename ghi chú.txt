@@ -1,0 +1,16 @@
+
+#1.
+interface là các hàm bên trong đều phải overiding lại 
+class chỉ tk có abstract mới cần overding lại
+#2
+overloading là cùng tên khác signature là khác nhau
+overriding là cùng hàm cùng tên cùng siganter nhưng phương thức khác nhau
+#3 
+fun( hàm trong interface ko có body) các thành con implement phải định nghĩa lại 
+#4.
+hàm abstract cũng ko có nội dung
+abstract class ko thể truy cập trực tiếp phải thông qua tk con thừa kế của nó
+abstract fun cũng không có nội dung 
+#5
+viết xong ứng dụng buộc phải up lên ít nhất 3 nơi: như gmail, githud, ô đia
+- lưu mật khẩu của của app chứ quên nó ko cho cấp lại, ko update được ứng dụng đâu
